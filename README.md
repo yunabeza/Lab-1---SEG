@@ -1,2 +1,2 @@
-# Lab-1---SEG
+# Lab1-SEG
 test repo 
